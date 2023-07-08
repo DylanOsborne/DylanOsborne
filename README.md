@@ -3,6 +3,7 @@
 - 🌱 I have done a college course for Full Stack Web And Software Development and I am always doing small other personal programming tasks
 
 - 📫 How to reach me dylanosbornebuisness@gmail.com
+- You can also find me on LinkedIn: www.linkedin.com/in/dylan-osborne-68a2b0265
 
 <!---
 DylanOsborne/DylanOsborne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
